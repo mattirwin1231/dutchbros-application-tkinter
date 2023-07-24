@@ -1,0 +1,6 @@
+Coffee Ordering records:
+Matthew Irwin ordered 1 for $3.50 at 2023-04-26 01:12:32.163968
+Elva Lin ordered 2 7 8 for $10.50 at 2023-04-26 01:12:41.921343
+Jackson Dow ordered 1 2 3 4 5 6 7 8 for $28.00 at 2023-04-26 01:12:53.063023
+Example1 ordered 2 3 5 6 for $14.00 at 2023-04-26 01:22:48.233178
+Example2 ordered 1 6 7 8 for $14.00 at 2023-04-26 11:02:06.967669
